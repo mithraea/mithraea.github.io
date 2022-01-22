@@ -5,3 +5,7 @@ h1 {
     color: red;
     transform: rotate(44deg);
 }
+
+a:hover {
+    color: blue;
+}
