@@ -1,5 +1,6 @@
 h1 {
+    line-height: 65%;
     font-family: 'Rubik Beastly', cursive;
-    font-size: 69px
+    font-size: 69px;
     color: red;
 }
