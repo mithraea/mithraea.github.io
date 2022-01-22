@@ -1,9 +1,9 @@
 h1 {
-    line-height: 115%;
+    line-height: 95%;
     font-family: 'Rubik Beastly', cursive;
-    font-size: 4.2069pt;
+    font-size: 40.2069px;
     color: red;
-    transform: rotate(44deg);
+    transform: rotate(14deg);
 }
 
 h1:hover {
