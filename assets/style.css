@@ -6,6 +6,6 @@ h1 {
     transform: rotate(44deg);
 }
 
-a:hover {
+h1:hover {
     color: blue;
 }
