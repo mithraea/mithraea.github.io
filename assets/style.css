@@ -3,5 +3,5 @@ h1 {
     font-family: 'Rubik Beastly', cursive;
     font-size: 69px;
     color: red;
-    rotate(44deg);
+    transform: rotate(44deg);
 }
