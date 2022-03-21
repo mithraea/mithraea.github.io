@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Lobster";
-    src: url("/assets/fonts/Lobster-Regular.woff") format('woff');
+    src: url("./assets/fonts/LobsterRegular.woff") format('woff');
 }
 
 h1 {
