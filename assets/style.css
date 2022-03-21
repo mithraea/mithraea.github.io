@@ -13,21 +13,24 @@ html {
 }
 
 body {
-    max-width: 800px;
-    margin:auto;
-    margin-top: 10%;
+    margin: 15%;
 }
 
 h1 {
     line-height: 100%;
+    margin-bottom: 15px;
     font-family: "IBM Plex Mono Semibold", 'Courier New', Courier, monospace;
     font-size: 42px;
     color: rgb(89, 130, 241);
 }
 
-h2 {
+p {
     line-height: 160%;
     font-family: "IBM Plex Mono Light Italic", 'Courier New', Courier, monospace;
     font-size: 22px;
     color: rgb(250, 239, 202);
+}
+
+a :hover {
+    color: rgb(226, 143, 19);
 }
