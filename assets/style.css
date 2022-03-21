@@ -1,23 +1,29 @@
 @font-face {
-    font-family: "Lobster";
-    src: url(./lobsterRegular.woff) format("woff");
+    font-family: "IBM Plex Mono Light Italic";
+    src: url(./IBMPlexMono-LightItalic.woff) format("woff");
+}
+
+@font-face {
+    font-family: "IBM Plex Mono Semibold";
+    src: url(./IBMPlexMono-SemiBold.woff) format("woff");
+}
+
+body {
+    max-width: 800px;
+    margin:auto;
+    margin-top: 10%;
 }
 
 h1 {
     line-height: 95%;
-    font-family: "Rubik Beastly", cursive;
-    font-size: 42.069px;
-    color: red;
-    transform: rotate(358deg);
-}
-
-h1:hover {
-    color: blue;
+    font-family: "IBM Plex Mono Semibold", 'Courier New', Courier, monospace;
+    font-size: 34px;
+    color: rgb(42, 55, 92);
 }
 
 h2 {
     line-height: 95%;
-    font-family: "Lobster", cursive;
-    font-size: 42.069px;
-    color: rgb(0, 217, 255);
+    font-family: "IBM Plex Mono Light Italic", 'Courier New', Courier, monospace;
+    font-size: 22px;
+    color: rgb(65, 31, 60);
 }
