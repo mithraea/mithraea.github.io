@@ -8,6 +8,10 @@
     src: url(./IBMPlexMono-SemiBold.woff) format("woff");
 }
 
+html {
+    background-color: #2d2339;
+}
+
 body {
     max-width: 800px;
     margin:auto;
@@ -18,12 +22,12 @@ h1 {
     line-height: 95%;
     font-family: "IBM Plex Mono Semibold", 'Courier New', Courier, monospace;
     font-size: 34px;
-    color: rgb(42, 55, 92);
+    color: rgb(89, 130, 241);
 }
 
 h2 {
     line-height: 95%;
     font-family: "IBM Plex Mono Light Italic", 'Courier New', Courier, monospace;
     font-size: 22px;
-    color: rgb(65, 31, 60);
+    color: rgb(250, 239, 202);
 }
