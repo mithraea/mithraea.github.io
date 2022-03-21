@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Lobster";
-    src: url("./LobsterRegular.woff") format('woff');
+    src: url(./LobsterRegular.woff) format("woff");
 }
 
 h1 {
     line-height: 95%;
-    font-family: 'Rubik Beastly', cursive;
+    font-family: "Rubik Beastly", cursive;
     font-size: 42.069px;
     color: red;
     transform: rotate(358deg);
@@ -17,7 +17,7 @@ h1:hover {
 
 h2 {
     line-height: 95%;
-    font-family: 'Lobster', cursive;
+    font-family: "Lobster", cursive;
     font-size: 42.069px;
     color: rgb(0, 217, 255);
 }
