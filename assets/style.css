@@ -8,6 +8,10 @@
     src: url(./IBMPlexMono-SemiBold.woff) format("woff");
 }
 
+.page {
+    margin: auto;
+}
+
 html {
     background-color: #121013;
 }
