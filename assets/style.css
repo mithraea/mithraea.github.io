@@ -9,6 +9,7 @@
 }
 
 .page {
+    width: 620px;
     margin: auto;
 }
 
@@ -21,17 +22,18 @@ body {
 }
 
 img {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    max-width: 110%;
     align-items: center;
-    max-width: 800px;
-    width: 90%;
 }
 
 h1 {
     margin-bottom: 5%;
     font-family: "IBM Plex Mono Semibold", 'Courier New', Courier, monospace;
     font-size: 22pt;
+    letter-spacing: 0.25em;
     line-height: 130%;
-    letter-spacing: 0.666em;
     color: rgb(56, 70, 7);
 }
 
@@ -40,7 +42,7 @@ p {
     max-width: 800px;
     line-height: 130%;
     font-family: "IBM Plex Mono Light Italic", 'Courier New', Courier, monospace;
-    font-size: 16pt;
+    font-size: 12pt;
     color: rgb(133, 118, 69);
     margin-bottom: 3.5%;
 }
