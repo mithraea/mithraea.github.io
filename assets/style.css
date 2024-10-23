@@ -8,8 +8,13 @@
     src: url(./IBMPlexMono-SemiBold.woff) format("woff");
 }
 
+@font-face {
+    font-family: "Cormorant Unicase Light";
+    src: url(./CormorantUnicase-Light.woff) format("woff");
+}
+
 .page {
-    width: 620px;
+    width: 420px;
     margin: auto;
 }
 
@@ -29,22 +34,30 @@ img {
 }
 
 h1 {
-    margin-bottom: 5%;
-    font-family: "IBM Plex Mono Semibold", 'Courier New', Courier, monospace;
-    font-size: 22pt;
-    letter-spacing: 0.25em;
+    font-family: "Cormorant Unicase Light", 'Times New Roman', Times, serif;
+    font-size: 38pt;
+    letter-spacing: 0.02em;
     line-height: 130%;
-    color: rgb(56, 70, 7);
+    color: rgb(116, 104, 38);
+    margin-bottom: -4%;
 }
 
-p {
+h2 {
     text-indent: 5%;
     max-width: 800px;
     line-height: 160%;
     font-family: "IBM Plex Mono Light Italic", 'Courier New', Courier, monospace;
-    font-size: 12pt;
-    color: rgb(133, 118, 69);
-    margin-bottom: 3.5%;
+    font-size: 14pt;
+    color: rgb(85, 92, 60);
+    margin-bottom: 1.5%;
+}
+
+p {
+    font-family: "IBM Plex Mono Semibold", 'Courier New', Courier, monospace;
+    font-size: 8pt;
+    text-indent: 5%;
+    color:rgb(131, 96, 75);
+    line-height: 140%;
 }
 
 a :hover {
