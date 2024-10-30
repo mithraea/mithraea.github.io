@@ -14,7 +14,7 @@
 }
 
 .page {
-    width: 420px;
+    width: 400px;
     margin: auto;
 }
 
@@ -31,11 +31,15 @@ body {
     margin-top: 200px;
 }
 
+/*  lololololol   */
 img {
     padding-top: 30px;
     padding-bottom: 30px;
-    max-width: 110%;
     align-items: center;
+}
+
+.wideimg {
+    width: 800px;
 }
 
 h1 {
