@@ -15,7 +15,7 @@
 
 .page {
     width: 400px;
-    margin: auto;
+    margin-left: 340px;
 }
 
 .rightJust {
@@ -26,9 +26,8 @@ html {
     background-color: #121013;
 }
 
-body {
-    margin: 5%;
-    margin-top: 200px;
+body {;
+    margin-top: 120px;
 }
 
 /*  lololololol   */
