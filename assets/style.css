@@ -52,12 +52,13 @@ h1 {
 }
 
 h2 {
-    text-indent: 5%;
+    text-indent: 2.5%;
     max-width: 800px;
     line-height: 160%;
     font-family: "IBM Plex Mono Light Italic", 'Courier New', Courier, monospace;
     font-size: 14pt;
     color: rgb(85, 92, 60);
+    margin-top: 1%;
     margin-bottom: 1.5%;
 }
 
