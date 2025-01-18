@@ -21,6 +21,19 @@
 
 .rightJust {
     text-align: right;
+    margin-left: 50%;
+}
+
+.odd {
+    transform: rotate(7deg);
+}
+
+.exit {
+    font-size: 24px;
+}
+
+.big {
+    color:darkturquoise;
 }
 
 html {
@@ -37,6 +50,8 @@ img {
     padding-bottom: 30px;
     align-items: center;
 }
+
+
 
 .wideimg {
     width: 800px;
