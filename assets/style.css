@@ -21,7 +21,7 @@
 
 .rightJust {
     text-align: right;
-    margin-left: 50%;
+    margin-left: 30%;
 }
 
 .odd {
@@ -29,11 +29,13 @@
 }
 
 .exit {
+    float: left;
     font-size: 24px;
 }
 
 .big {
     color:darkturquoise;
+    font-size: 48px;
 }
 
 html {
