@@ -17,7 +17,7 @@
     width: 40%;
     max-width: 600px;
     margin-left: 8%;
-    padding-bottom: 20%;
+    padding-bottom: 10%;
 }
 
 .clem {
@@ -50,13 +50,13 @@ html {
 }
 
 body {
-    margin-top: 8%;
+    margin-top: 2%;
 }
 
 /*  lololololol   */
 img {
     scale: 100%;
-    padding-top: 230px;
+    padding-top: 30px;
     padding-bottom: 30px;
     align-items: center;
 }
